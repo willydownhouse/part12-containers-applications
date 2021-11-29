@@ -1,0 +1,5 @@
+Script started on 2021-11-29 10:29:33+00:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="168" LINES="44"]
+# dir
+bin  boot  dev  etc  exercise12_3.txt  home  lib  lib32  lib64  libx32  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+# nano /usr/src/app/index.js
+# exit
