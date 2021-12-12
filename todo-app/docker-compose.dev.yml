@@ -42,7 +42,7 @@ services:
       context: ./todo-frontend
       dockerfile: ./todo-frontend/dev.Dockerfile
     ports:
-      - 3001:80
+      - 3001:3000
     volumes:
       - ./todo-frontend:/usr/src/app
     environment:
